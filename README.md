@@ -7,7 +7,7 @@ Analyze the basketball player's video and tally the number of successful shots m
 
 ## Demo
 
-![](output_data/basketball_output.mp4)
+![Watch the video](output_data/basketball_output.mp4)
 
 
 ## Screenshots
