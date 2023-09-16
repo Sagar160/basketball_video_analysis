@@ -14,15 +14,16 @@ https://github.com/Sagar160/basketball_video_analysis/assets/48182028/38d4bdbc-6
 
 
 
-## Screenshots
+## Position of Ball, Hoop and Backboard
 
+1. Position of ball, hoop and backboard
+   
 ![](output_data/Screenshot%20from%202023-09-16%2019-13-45.png)
 
-Position of ball, hoop and backboard
+2. position of ball with respect to hoop
 
 ![](output_data/Screenshot%20from%202023-09-16%2019-13-01.png)
 
-position of ball with respect to hoop
 
 ## Logic
 
