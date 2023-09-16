@@ -12,7 +12,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](output_data/Screenshot%20from%202023-09-16%2019-13-01.png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
