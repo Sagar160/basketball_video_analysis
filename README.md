@@ -7,7 +7,11 @@ Analyze the basketball player's video and tally the number of successful shots m
 
 ## Demo
 
-![Watch the video](output_data/basketball_output.mp4)
+
+
+https://github.com/Sagar160/basketball_video_analysis/assets/48182028/38d4bdbc-699d-47b3-893f-4717ee3e295c
+
+
 
 
 ## Screenshots
