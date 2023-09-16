@@ -13,9 +13,11 @@ Insert gif or link to demo
 ## Screenshots
 
 ![](output_data/Screenshot%20from%202023-09-16%2019-13-45.png)
+
 Position of ball, hoop and backboard
 
 ![](output_data/Screenshot%20from%202023-09-16%2019-13-01.png)
+
 position of ball, hoop and backboard with respect to hoop
 
 ## Logic
