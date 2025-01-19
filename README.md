@@ -30,3 +30,11 @@ https://github.com/Sagar160/basketball_video_analysis/assets/48182028/38d4bdbc-6
 1. It calculates the ratio between the ball and the hoop and automatically detects a throw when the ball is in proximity to the hoop.
 2. It reaches a decision by analyzing the positions of the ball, hoop, and backboard in relation to each other.
 
+## Technologies and Tools
+- Python
+- Pandas, NumPy
+- Tensorflow
+- OpenCV
+- MediaPipe
+- YOLOv8
+
